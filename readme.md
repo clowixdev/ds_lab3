@@ -1,4 +1,4 @@
-Laboratory work for university
+Laboratory work for University
 
 NoteBookApp
 
