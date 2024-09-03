@@ -1,6 +1,6 @@
 # Laboratory work for University
 
-NoteBookApp
+### NoteBookApp
 
 It is necessary to develop a program that implements the functionality of the business notebook: 
 1) storing objects of the "event" type: 
