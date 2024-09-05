@@ -31,4 +31,4 @@ Requirements:
     - the filter should also work on substrings 
     - the event storage structure should be optimal in logic and memory
 
-###ACCEPTED!
+### ACCEPTED!
